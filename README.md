@@ -15,5 +15,5 @@ I'm a Software Engineer, Content Creator, and Web3 enthusiast who currently buil
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Timmydee&show_icons=true&include_all_commits=true&hide_border=true" alt="Timmydee's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadesolaibk&langs_count=8&layout=compact&hide_border=true" alt="Fadesolaibk's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fadesolaibk&show_icons=true&include_all_commits=true&hide_border=true" alt="Fadesola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadesolaibk&langs_count=8&layout=compact&hide_border=true" alt="Fadesolaibk's GitHub stats" /> |
 | ------------- | ------------- |
