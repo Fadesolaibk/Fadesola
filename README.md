@@ -8,12 +8,12 @@ I'm a Software Engineer, Content Creator, and Web3 enthusiast who currently buil
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Solidity.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or Blockchain Developer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing lyricsbytimmyde@gmail.com.
+- 🌱 I’m currently learning python, sql, powerbi, tableau.
+- 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
+- 💼 Job interests: Data Analyst, Data Engineer, or Data Scientist (Intern or Junior level).
+- 📫 You can [view my resume](#) and contact me by emailing Iyaomolereibukun@gmail.com.
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Timmydee&show_icons=true&include_all_commits=true&hide_border=true" alt="Timmydee's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmydee&langs_count=8&layout=compact&hide_border=true" alt="Timmydee's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Timmydee&show_icons=true&include_all_commits=true&hide_border=true" alt="Timmydee's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadesolaibk&langs_count=8&layout=compact&hide_border=true" alt="Fadesolaibk's GitHub stats" /> |
 | ------------- | ------------- |
